@@ -13,4 +13,4 @@
 
 ## Screenshots
 
-![SS of app running in terminal](SS/12-EMS-SS.png "app running in terminal")
+![SS of app running in terminal](db/SS/12-EMS-SS.png "app running in terminal")
